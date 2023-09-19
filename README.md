@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at CPE KMUTT
 --------------------
 
-I've been learning React.js for 2 months and waiting to intern at this next summer
+I've been learning React.js for 2 months and tried to improve myself!
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My website](http://https://folk-sawit.netlify.app/)
