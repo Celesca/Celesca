@@ -1,5 +1,5 @@
 # 💫 About Me:
-My nickname is Folk. I'm study Second-year Computer Engineering at King's Mongkut University of Technology Thonburi (KMUTT) I want to improve myself in what I believe. I know it's long way to go but I really love to code!<br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm currently studying Spring boot!
+My nickname is Folk. I'm study Second-year Computer Engineering at King's Mongkut University of Technology Thonburi (KMUTT) I want to improve myself in what I believe. I know it's long way to go but I really love to code!<br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm currently studying Node.js and .NET Core!
 
 
 
