@@ -10,17 +10,11 @@ My nickname is Folk. I'm study Second-year Computer Engineering at King's Mongku
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/folk.kosee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/folkkk.sawit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sawit-koseeyaumporn-418941256/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Celescadev) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; width: 1920px;">
 
-  <div>
-  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Celesca&theme=react&hide_border=false)</div>
-  <div>
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Celesca&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
 </div>
 
