@@ -5,10 +5,12 @@ My name is Folk. I'm a second-year Computer Engineering student at King Mongkut'
 
 ### Tech Events or Competition which I had joined:
 
-
+- Bangmod Hackathon 2023 Committee (19 Jan 2023)
 - GoFive Full-stack Developer Bootcamp (16-17 Dec 2023)
 - KMUTT Game Jam 2024 (26-28 Jan 2024)
+- KMUTT RC PCS (3-17 Feb 2024)
 - TPA PLC Competition 2024 (14 Feb - Now)
+- KBTG ClassNest Java Software Engineer Bootcamp 2 Intensive Workshop (23-24 Mar 2024)
 - Thailand Student Developer Summit 2024 (6 Apr 2024)
 
 ### 💻 Tech Stack:
