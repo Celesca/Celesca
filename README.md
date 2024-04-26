@@ -40,6 +40,8 @@ My name is Folk. I'm a second-year Computer Engineering student at King Mongkut'
 
 </div>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Celesca&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Celesca&icon=0&color=0)](https://visitcount.itsvg.in)
 
