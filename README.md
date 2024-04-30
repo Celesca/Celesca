@@ -30,6 +30,24 @@ My name is Folk. I'm a second-year Computer Engineering student at King Mongkut'
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/folk.kosee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/folkkk.sawit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sawit-koseeyaumporn-418941256/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Celescadev) 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 20 April 2024 - To: 28 April 2024
+
+Total Time: 13 hrs 59 mins
+
+TypeScript   5 hrs 43 mins   >>>>>>>>>>---------------   40.25 %
+JavaScript   2 hrs 41 mins   >>>>>--------------------   18.90 %
+Python       1 hr 38 mins    >>>----------------------   11.49 %
+EJS          1 hr 15 mins    >>-----------------------   08.80 %
+JSON         43 mins         >------------------------   05.07 %
+Bash         29 mins         >------------------------   03.45 %
+Docker       27 mins         >------------------------   03.21 %
+Prisma       22 mins         >------------------------   02.69 %
+YAML         18 mins         >------------------------   02.14 %
+Other        14 mins         -------------------------   01.71 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats:
