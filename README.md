@@ -32,20 +32,20 @@ My name is Folk. I'm a second-year Computer Engineering student at King Mongkut'
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2024 - To: 29 April 2024
+From: 20 April 2024 - To: 30 April 2024
 
-Total Time: 17 hrs 59 mins
+Total Time: 20 hrs 16 mins
 
-TypeScript   5 hrs 55 mins   >>>>>>>>-----------------   32.46 %
-Python       3 hrs 53 mins   >>>>>--------------------   21.35 %
-JavaScript   3 hrs 2 mins    >>>>---------------------   16.64 %
-EJS          1 hr 35 mins    >>-----------------------   08.75 %
-JSON         44 mins         >------------------------   04.03 %
-Bash         43 mins         >------------------------   03.96 %
-CSS          34 mins         >------------------------   03.13 %
-Docker       29 mins         >------------------------   02.69 %
-Prisma       22 mins         >------------------------   02.10 %
-YAML         21 mins         -------------------------   01.92 %
+TypeScript   7 hrs 7 mins    >>>>>>>>>----------------   34.66 %
+Python       4 hrs 23 mins   >>>>>--------------------   21.37 %
+JavaScript   3 hrs 7 mins    >>>>---------------------   15.19 %
+EJS          1 hr 35 mins    >>-----------------------   07.77 %
+YAML         45 mins         >------------------------   03.67 %
+JSON         44 mins         >------------------------   03.64 %
+Bash         43 mins         >------------------------   03.52 %
+CSS          34 mins         >------------------------   02.78 %
+Docker       29 mins         >------------------------   02.39 %
+Prisma       22 mins         -------------------------   01.87 %
 ```
 
 <!--END_SECTION:waka-->
