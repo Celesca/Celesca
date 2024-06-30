@@ -24,7 +24,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - AI Cooking - AI Thailand Hackathon 2024 15th place (17-19 June 2024)
 - Makathon Next Gen: 15 Final List (21 June 2024)
 - ExxonMobil Bootcathon 2024 (21 June 2024)
-- SCGJWD Next Gen Logistics 2024 2nd Gen
+- SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024)
 
 
 ## 💻 Tech Stack:
