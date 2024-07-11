@@ -1,11 +1,11 @@
 # 💫 About Me:
-My name is Folk. I'm a third-year Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT). \
+My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT). \
 I'm Beta Microsoft Learn Student Ambassador. \
 I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm currently studying LLMs.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### Tech Events which I had joined:
+### Onsite Tech Events which I had joined:
 
 - Bangmod Hackathon 2023 Committee (19 Jan 2023)
 - GoFive Full-stack Developer Bootcamp (16-17 Dec 2023)
@@ -13,16 +13,19 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KBTG ClassNest Java Software Engineer Bootcamp 2 Intensive Workshop (23-24 Mar 2024)
 - Thailand Student Developer Summit 2024 (6 Apr 2024)
 - Microsoft Build: AI Day (1 May 2024) at Queen Sirikit National Convention Center
-- RC Tech Talk (13 May 2024) Head Speaker
+- "Head Speaker" RC Tech Talk (13 May 2024)
 - Microsoft Build: After Party Thailand at SCBx Next Tech (16 June 2024)
 
 ### Competition Lists which I had joined :
 
+- "1st Runner-up" Thong Thon Game Design Camp (21-22 August 2022)
+- "Winner" Adabrains Game Jam 2023 (13-15 Oct 2023)
 - KMUTT Game Jam 2024 (26-28 Jan 2024)
-- TPA PLC Competition 2024 Top 16 (14 Feb - 10 June 2024)
+- "Top 16" TPA PLC Competition 2024 (14 Feb - 10 June 2024)
+- "2nd Runner-up" ABU Robocon Thailand 2024 (14 Feb - 7 July 2024)
 - DIGI Data Camp Season 3 (13-17 May 2024)
-- AI Cooking - AI Thailand Hackathon 2024 15th place (17-19 June 2024)
-- Makathon Next Gen: 15 Final List (21 June 2024)
+- "15th place" AI Cooking - AI Thailand Hackathon 2024 (17-19 June 2024)
+- "Top 15" Makathon Next Gen (21 June 2024)
 - ExxonMobil Bootcathon 2024 (21 June 2024)
 - SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024)
 - CAICamp Gen 7 (16-20 August 2024)
