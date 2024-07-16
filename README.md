@@ -24,7 +24,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - "Top 16" TPA PLC Competition 2024 (14 Feb - 10 June 2024)
 - "2nd Runner-up" ABU Robocon Thailand 2024 (14 Feb - 7 July 2024)
 - DIGI Data Camp Season 3 (13-17 May 2024)
-- "15th place" AI Cooking - AI Thailand Hackathon 2024 (17-19 June 2024)
+- "Top 15" AI Cooking - AI Thailand Hackathon 2024 (17-19 June 2024)
 - "Top 15" Makathon Next Gen (21 June 2024)
 - ExxonMobil Bootcathon 2024 (21 June 2024)
 - SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024)
