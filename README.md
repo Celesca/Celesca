@@ -32,8 +32,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - CAICamp Gen 7 Phase 1 (16-20 August 2024)
 
 ### Incoming Hackathons
-- NocNoc Hackathon
-- Gill Capital Hackathon
+
 - SX Hackathon 2024
 
 ### Lists of Project I want to do
