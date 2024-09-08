@@ -29,11 +29,14 @@ I'm passionate about community building and inspiring other students. <br> I als
 - "Top 15" Makathon Next Gen (21 June 2024)
 - ExxonMobil Bootcathon 2024 (21 June 2024)
 - 🥈 "1st Runner-up" SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024)
+- R2M#12 (Research to Market) KMUTT (26 July - 6 August 2024)
 - CAICamp Gen 7 Phase 1 (16-20 August 2024)
+- Global Startup Hackathon by Reactor School and KMUTT Hatch (5-7 September 2024)
+
 
 ### Incoming Hackathons
+- Currently in the vacations!
 
-- SX Hackathon 2024
 
 ### Lists of Project I want to do
 
