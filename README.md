@@ -16,6 +16,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - "Head Speaker" RC Tech Talk (13 May 2024)
 - Microsoft Build: After Party Thailand at SCBx Next Tech (16 June 2024)
 - InternSIT @ SIT KMUTT (25 Aug 2024)
+- KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 
 ### Competition Lists which I had joined :
 
