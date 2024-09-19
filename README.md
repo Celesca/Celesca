@@ -54,6 +54,7 @@ I'm passionate about community building and inspiring other students. <br> I als
   <img src="https://github.com/Celesca/Celesca/blob/main/Achievements/microsoft_learn_ai_skill_challenge.png" width="200px">
   <img src="https://github.com/Celesca/Celesca/blob/main/Achievements/google-data-analytics-certificate.png" width="200px">
   <img src="https://github.com/Celesca/Celesca/blob/main/Achievements/google-cybersecurity-certificate.png" width="200px">
+  <img src="https://github.com/Celesca/Celesca/blob/main/Achievements/reactor.png" width="200px">
 </div>
 
 ## 🌐 Socials:
