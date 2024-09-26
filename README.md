@@ -17,6 +17,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Microsoft Build: After Party Thailand at SCBx Next Tech (16 June 2024)
 - InternSIT @ SIT KMUTT (25 Aug 2024)
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
+- Bangmod Hackathon 2024 Committee (6 Oct 2024)
 
 ### Competition Lists which I had joined :
 
