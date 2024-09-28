@@ -39,7 +39,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Top 60 OIC Hackathon 2024
 
 ### Incoming Hackathons
-
+- AI for Cooking EP.2
+- 
 
 ### Lists of Project I want to do
 
