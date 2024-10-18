@@ -41,6 +41,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KMUTT Startup Playground (9-17 Oct 2024)
 
 ### Incoming Hackathons
+- KBTG ClassNest Cybersecurity 2
 - AI for Cooking EP.2
 - CU Startup Thailand League
 
