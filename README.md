@@ -36,16 +36,16 @@ I'm passionate about community building and inspiring other students. <br> I als
 - CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
 - E-SAN Thailand Coding & AI Academy Seaspn 3
 - Thailand Cyber Top Talent 2024
-- Top 60 OIC Hackathon 2024
+- Top 30 OIC Hackathon 2024
+- Siriraj x KMIT Hacking Medicine 2024
+- KMUTT Startup Playground (9-17 Oct 2024)
 
 ### Incoming Hackathons
 - AI for Cooking EP.2
-- KMUTT Startup Playground
 - CU Startup Thailand League
 
 ### Lists of Project I want to do
 
-- AI Agents
 - CPERC Website with SLM RAG chatbot.
 
 ## 💻 Tech Stack:
