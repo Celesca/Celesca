@@ -37,7 +37,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - E-SAN Thailand Coding & AI Academy Seaspn 3
 - Thailand Cyber Top Talent 2024
 - Top 30 OIC Hackathon 2024
-- Siriraj x KMIT Hacking Medicine 2024
+- Siriraj x MIT Hacking Medicine 2024 ⭐
 - KMUTT Startup Playground (9-17 Oct 2024)
 
 ### Incoming Hackathons
