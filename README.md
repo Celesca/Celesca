@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT). \
 I'm Beta Microsoft Learn Student Ambassador. \
-I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm currently studying DevOps.
+I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm currently studying AI and LLMS.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -18,6 +18,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - InternSIT @ SIT KMUTT (25 Aug 2024)
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
+- KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
 
 ### Competition Lists which I had joined :
 
@@ -37,11 +38,11 @@ I'm passionate about community building and inspiring other students. <br> I als
 - E-SAN Thailand Coding & AI Academy Seaspn 3
 - Thailand Cyber Top Talent 2024
 - Top 30 OIC Hackathon 2024
-- Siriraj x MIT Hacking Medicine 2024 ⭐
+- Siriraj x MIT Hacking Medicine 2024 - Track 1 : Aging in place ⭐
 - KMUTT Startup Playground (9-17 Oct 2024)
 
 ### Incoming Hackathons
-- KBTG ClassNest Cybersecurity 2
+
 - AI for Cooking EP.2
 - CU Startup Thailand League
 
