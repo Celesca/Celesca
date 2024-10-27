@@ -34,7 +34,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024) ⭐⭐
 - R2M#12 (Research to Market) KMUTT (26 July - 6 August 2024)
 - Global Startup Hackathon by Reactor School and KMUTT Hatch (5-7 September 2024)
-- CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
+- 🥈 "1st Runner-up" CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
 - E-SAN Thailand Coding & AI Academy Seaspn 3
 - Thailand Cyber Top Talent 2024
 - Top 30 OIC Hackathon 2024
