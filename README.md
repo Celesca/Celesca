@@ -19,6 +19,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
 - KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
+- Organizer Core Team Member at CAIC Hackathon 2024
 
 ### Competition Lists which I had joined :
 
@@ -35,16 +36,20 @@ I'm passionate about community building and inspiring other students. <br> I als
 - R2M#12 (Research to Market) KMUTT (26 July - 6 August 2024)
 - Global Startup Hackathon by Reactor School and KMUTT Hatch (5-7 September 2024)
 - 🥈 "1st Runner-up" CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
-- E-SAN Thailand Coding & AI Academy Seaspn 3
+- E-SAN Thailand Coding & AI Academy Seaspn 3 Phase 2 (28 Oct 2024)
 - Thailand Cyber Top Talent 2024
 - Top 30 OIC Hackathon 2024
 - Siriraj x MIT Hacking Medicine 2024 - Track 1 : Aging in place ⭐
 - KMUTT Startup Playground (9-17 Oct 2024)
 
-### Incoming Hackathons
+### Incoming Hackathons (Planning)
 
 - AI for Cooking EP.2
-- CU Startup Thailand League
+- SCG YTP 2025
+- SuperAI SS5 ⭐⭐
+- ELP 2025
+- YES Talent Camp
+- Sea Bridge RE.MT 6
 
 ### Lists of Project I want to do
 
