@@ -19,7 +19,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
 - KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
-- Organizer Core Team Member at CAIC Hackathon 2024
+- Organizer Core Team Member at CAIC Hackathon 2025
 
 ### Competition Lists which I had joined :
 
