@@ -73,7 +73,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2024 - To: 13 November 2024
+From: 20 April 2024 - To: 14 November 2024
 
 Total Time: 277 hrs 18 mins
 
