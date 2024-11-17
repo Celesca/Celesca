@@ -40,7 +40,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Thailand Cyber Top Talent 2024
 - Top 30 OIC Hackathon 2024 (27 Oct 2024)
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
-- KMUTT Startup Playground (9-17 Nov 2024)
+- 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
 - GrabSpark Hackathon 2024 (14 Nov 2024)
 
 ### Incoming Hackathons (Planning)
