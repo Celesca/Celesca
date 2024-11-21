@@ -13,13 +13,14 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KBTG ClassNest Java Software Engineer Bootcamp 2 Intensive Workshop (23-24 Mar 2024)
 - Thailand Student Developer Summit 2024 (6 Apr 2024)
 - Microsoft Build: AI Day (1 May 2024) at Queen Sirikit National Convention Center
-- "Head Speaker" RC Tech Talk (13 May 2024)
+- RC Tech Talk "Head Speaker" (13 May 2024)
 - Microsoft Build: After Party Thailand at SCBx Next Tech (16 June 2024)
 - InternSIT @ SIT KMUTT (25 Aug 2024)
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
+- RC Tech Talk Next Gen: AI Day "Head Speaker" (22 Sep 2024)
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
 - KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
-- Organizer Core Team Member at CAIC Hackathon 2025
+- Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
 
 ### Competition Lists which I had joined :
 
