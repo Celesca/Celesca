@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT). \
 I'm Beta Microsoft Learn Student Ambassador. \
-I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm currently studying AI and LLMS.
+I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](http://celesca.github.io/Portfolio/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm into Software Engineering, AI, DevOps and Business.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
