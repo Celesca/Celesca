@@ -15,6 +15,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Microsoft Build: AI Day (1 May 2024) at Queen Sirikit National Convention Center
 - RC Tech Talk "Head Speaker" (13 May 2024)
 - Microsoft Build: After Party Thailand at SCBx Next Tech (16 June 2024)
+- TEDxKMUTT Website Developer Assistant (16 Aug - Now)
 - InternSIT @ SIT KMUTT (25 Aug 2024)
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 - RC Tech Talk Next Gen: AI Day "Head Speaker" (22 Sep 2024)
@@ -27,11 +28,11 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" Thong Thon Game Design Camp (21-22 August 2022) ⭐
 - 🏆 "Winner" Adabrains Game Jam 2023 (13-15 Oct 2023) ⭐
 - KMUTT Game Jam 2024 (26-28 Jan 2024)
-- "Top 16" TPA PLC Competition 2024 (14 Feb - 10 June 2024)
+- <b>Finalist</b> TPA PLC Competition 2024 at Zeer Rangsit (14 Feb - 10 June 2024)
 - 🥉 "2nd Runner-up" ABU Robocon Thailand 2024 (14 Feb - 7 July 2024) ⭐
 - DIGI Data Camp Season 3 (13-17 May 2024)
-- "Top 15" AI Cooking - AI Thailand Hackathon 2024 (17-19 June 2024) ⭐
-- "Top 15" Makathon Next Gen (21 June 2024) ⭐
+- <b>Top 15</b> AI Cooking - AI Thailand Hackathon 2024 (17-19 June 2024) ⭐
+- <b>Finalist</b> Makathon Next Gen (21 June 2024) ⭐
 - ExxonMobil Bootcathon 2024 (21 June 2024)
 - 🥈 "1st Runner-up" SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024) ⭐⭐
 - R2M#12 (Research to Market) KMUTT (26 July - 6 August 2024)
@@ -39,7 +40,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
 - E-SAN Thailand Coding & AI Academy Season 3 Phase 2 (28 Oct 2024)
 - Thailand Cyber Top Talent 2024
-- Top 30 OIC Hackathon 2024 (27 Oct 2024)
+- <b>Top 15</b> Hackathon 2024 (27 Oct 2024)
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
 - GrabSpark Hackathon 2024 (14 Nov 2024)
