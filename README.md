@@ -21,6 +21,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - RC Tech Talk Next Gen: AI Day "Head Speaker" (22 Sep 2024)
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
 - KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
+- CPE KMUTT: Microsoft Learn Student Ambassadors Tech Talk (17 Dec 2024)
 - Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
 
 ### Competition Lists which I had joined :
@@ -43,15 +44,15 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Top 15</b> Hackathon 2024 (27 Oct 2024)
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
-- GrabSpark Hackathon 2024 (14 Nov 2024)
+- SuperAI SS5 ⭐⭐⭐⭐ (My Last Hackathon) (12 Dec - Now)
 
 ### Incoming Hackathons (Planning)
 
 - SCG YTP 2025
 - ELP 2025
 - YES Talent Camp
-- Sea Bridge RE.MT 6
-- SuperAI SS5 ⭐⭐⭐⭐ (My Last Hackathon)
+- Sea Bridge REMT 6
+
 
 ### Lists of Project I want to do
 
