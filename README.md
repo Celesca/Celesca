@@ -44,10 +44,11 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Top 15</b> Hackathon 2024 (27 Oct 2024)
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
-- SuperAI SS5 ⭐⭐⭐⭐ (My Last Hackathon) (12 Dec - Now)
+- SuperAI SS5 ⭐⭐⭐⭐ (My Last Hackathon) (12 Dec 2024 - Now)
 
 ### Incoming Hackathons (Planning)
 
+- Chula LegalTech Year 6
 - SCG YTP 2025
 - ELP 2025
 - YES Talent Camp
