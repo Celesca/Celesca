@@ -23,6 +23,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
 - CPE KMUTT: Microsoft Learn Student Ambassadors Tech Talk (17 Dec 2024)
 - Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
+- Organizer at Microsoft Learn Student Ambassadors Thailand Team
 
 ### Competition Lists which I had joined :
 
@@ -49,7 +50,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 ### Incoming Hackathons (Planning)
 
 - Chula LegalTech Year 6
-- Learn Lab Hackathon
+- Learn Lab Hackathon 2025
 - SCG YTP 2025
 - ELP 2025
 - YES Talent Camp
