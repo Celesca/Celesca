@@ -24,6 +24,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - CPE KMUTT: Microsoft Learn Student Ambassadors Tech Talk (17 Dec 2024)
 - Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
 - Organizer at Microsoft Learn Student Ambassadors Thailand Team
+- Head of Game Manager CPE Games 2025 (Now)
 
 ### Competition Lists which I had joined :
 
@@ -42,7 +43,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
 - E-SAN Thailand Coding & AI Academy Season 3 Phase 2 (28 Oct 2024)
 - Thailand Cyber Top Talent 2024
-- <b>Top 15</b> Hackathon 2024 (27 Oct 2024)
+- <b>Top 15</b> OIC InsurTech Hackathon 2024 (27 Oct 2024)
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
 - SuperAI SS5 ⭐⭐⭐⭐ (My Last Hackathon) (12 Dec 2024 - Now)
