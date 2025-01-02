@@ -57,6 +57,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - YES Talent Camp
 - Sea Bridge REMT 6
 - Brain Code Camp 2025
+- Mitr Phol AI Hackathon
 
 
 ### Lists of Project I want to do
