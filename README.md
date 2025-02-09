@@ -52,6 +52,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 
 ### Incoming Hackathons (Planning)
 
+- Gosoft Hackathon
+- Thaivivat
 - SCG YTP 2025
 - ELP 2025
 - YES Talent Camp
