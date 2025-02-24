@@ -20,7 +20,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 - RC Tech Talk Next Gen: AI Day "Head Speaker" (22 Sep 2024)
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
-- KBTG ClassNest Cybersecurity 2 (17 Nov 2024)
+- KBTG ClassNest Cybersecurity 2 Intensive Workshop (22-23 Feb 2025)
 - CPE KMUTT: Microsoft Learn Student Ambassadors Tech Talk (17 Dec 2024)
 - Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
 - Organizer at Microsoft Learn Student Ambassadors Thailand Team
