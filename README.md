@@ -1,5 +1,6 @@
 # 💫 About Me:
 My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT). \
+AI Engineer Intern at SCG\
 I'm Beta Microsoft Learn Student Ambassador. \
 I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](https://celescadev-celescas-projects.vercel.app/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm into Software Engineering, AI, DevOps, QA Testing and Business
 
