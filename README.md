@@ -24,8 +24,10 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KBTG ClassNest Cybersecurity 2 Intensive Workshop (22-23 Feb 2025)
 - CPE KMUTT: Microsoft Learn Student Ambassadors Tech Talk (17 Dec 2024)
 - Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
-- Organizer at Microsoft Learn Student Ambassadors Thailand Team
-- Head of Game Manager CPE Games 2025 (Now)
+- Organizer at Microsoft Learn Student Ambassadors Thailand Team (Now)
+- Head of Game Manager CPE Games 2025 (10 Dec 2024 - 3 Feb 2025)
+- Microsoft AI Roadshow Bangkok at KMUTT Staff (21 Feb 2025)
+- KMUTT Makkadan 2025 Championship Organizer (1 Jan 2025 - Now)
 
 ### Competition Lists which I had joined :
 
@@ -48,18 +50,20 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
 - SuperAI SS5 Track 1 - AI Innovator ⭐⭐⭐⭐  (12 Dec 2024 - Now)
+- Chula LegalTech SS6
 - Learn Lab Hackathon 2025
-- Hatch Incubation Gen 9 
+- Hatch Incubation Gen 9
+- Bookathon by OKMD
 
 ### Incoming Hackathons (Planning)
 
 - Super AI SS6 Track 2 - AI Engineer ⭐⭐⭐⭐ (My Last Hackathon)
 
+- 
 - Gosoft Hackathon
-- Thaivivat
 - SCG YTP 2025
 - ELP 2025
-- YES Talent Camp
+- YES Talent Camp (Mitr phol AI Hackathon)
 - Sea Bridge REMT
 - Brain Code Camp 2025
 - Mitr Phol AI Hackathon
