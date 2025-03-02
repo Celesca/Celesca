@@ -54,13 +54,11 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Learn Lab Hackathon 2025
 - Hatch Incubation Gen 9
 - Bookathon by OKMD
+- Experiential Learning Program 3 (2025)
 
 ### Incoming Hackathons (Planning)
 
 - Super AI SS6 Track 2 - AI Engineer ⭐⭐⭐⭐ (My Last Hackathon)
-
-- 
-- Gosoft Hackathon
 - SCG YTP 2025
 - ELP 2025
 - YES Talent Camp (Mitr phol AI Hackathon)
