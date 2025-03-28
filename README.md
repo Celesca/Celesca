@@ -51,15 +51,15 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
 - SuperAI SS5 Track 1 - AI Innovator ⭐⭐⭐⭐  (12 Dec 2024 - Now)
 - Chula LegalTech SS6
-- <b>Top 40</b>Learn Lab Hackathon 2025
-- <b>Top 10</b>Hatch Incubation Gen 9
+- <b>Top 40</b> Learn Lab Hackathon 2025
+- <b>Top 10</b> Hatch Incubation Gen 9
 - Bookathon by OKMD
-- Experiential Learning Program 3 (2025)
 
 ### Incoming Hackathons (Planning)
 
 - Super AI SS6 Track 2 - AI Engineer ⭐⭐⭐⭐ (My Last Hackathon)
 - SCG YTP 2025
+- Experiential Learning Program 3 (2025)
 - ELP 2025
 - YES Talent Camp (Mitr phol AI Hackathon)
 - Sea Bridge REMT
