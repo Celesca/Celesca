@@ -90,14 +90,14 @@ I'm passionate about community building and inspiring other students. <br> I als
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2024 - To: 02 April 2025
+From: 20 April 2024 - To: 03 April 2025
 
-Total Time: 423 hrs 15 mins
+Total Time: 423 hrs 32 mins
 
-Python            190 hrs 29 mins >>>>>>>>>>>--------------   44.87 %
-TypeScript        146 hrs 36 mins >>>>>>>>>----------------   34.53 %
-JavaScript        19 hrs 8 mins   >------------------------   04.51 %
-Go                12 hrs 40 mins  >------------------------   02.99 %
+Python            190 hrs 29 mins >>>>>>>>>>>--------------   44.84 %
+TypeScript        146 hrs 53 mins >>>>>>>>>----------------   34.58 %
+JavaScript        19 hrs 8 mins   >------------------------   04.50 %
+Go                12 hrs 40 mins  >------------------------   02.98 %
 SQL               7 hrs 15 mins   -------------------------   01.71 %
 Vue.js            6 hrs 33 mins   -------------------------   01.55 %
 CSS               5 hrs 11 mins   -------------------------   01.22 %
