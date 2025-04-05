@@ -49,11 +49,12 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Top 15</b> OIC InsurTech Hackathon 2024 (27 Oct 2024)
 - Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
-- SuperAI SS5 Track 1 - AI Innovator ⭐⭐⭐⭐  (12 Dec 2024 - Now)
+- SuperAI SS5 Engineer 2025 Level 1 (12 Dec 2024 - 31 Mar 2025)
 - Chula LegalTech SS6
 - <b>Top 40</b> Learn Lab Hackathon 2025
 - <b>Top 10</b> Hatch Incubation Gen 9
-- Bookathon by OKMD
+- Bookathon by Alpha+ Sandbox
+- SuperAI SS5 Engineer 2025 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
 
 ### Incoming Hackathons (Planning)
 
