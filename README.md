@@ -53,8 +53,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Chula LegalTech SS6
 - <b>Top 40</b> Learn Lab Hackathon 2025
 - <b>Top 10</b> Hatch Incubation Gen 9
-- Bookathon by Alpha+ Sandbox
-- SuperAI SS5 Engineer 2025 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
+- 🥉 "2nd Runner-up" Bookathon at 53th Thai National Book Fair
+- 🏆 SuperAI SS5 Engineer 2025 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
 
 ### Incoming Hackathons (Planning)
 
