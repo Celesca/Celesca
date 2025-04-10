@@ -23,11 +23,13 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Bangmod Hackathon 2024 Committee (6 Oct 2024)
 - KBTG ClassNest Cybersecurity 2 Intensive Workshop (22-23 Feb 2025)
 - CPE KMUTT: Microsoft Learn Student Ambassadors Tech Talk (17 Dec 2024)
+- Speaker at RC12 Python Camp
 - Organizer Core Team Member at CAIC Hackathon 2025 (24-26 Jan 2025)
 - Organizer at Microsoft Learn Student Ambassadors Thailand Team (Now)
 - Head of Game Manager CPE Games 2025 (10 Dec 2024 - 3 Feb 2025)
 - Microsoft AI Roadshow Bangkok at KMUTT Staff (21 Feb 2025)
 - KMUTT Makkadan 2025 Championship Organizer (1 Jan 2025 - Now)
+- CPE101 Special Lecture : Introduction to Microsoft Azure IoT Hub (27 Mar 2025)
 
 ### Competition Lists which I had joined :
 
@@ -55,6 +57,12 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Top 10</b> Hatch Incubation Gen 9
 - 🥉 "2nd Runner-up" Bookathon at 53th Thai National Book Fair
 - 🏆 SuperAI SS5 Engineer 2025 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
+
+## Hackathons that I didn't have joined
+
+- Grabkathon (Grab Spark)
+- Noc Noc Hackathon
+- CUBs Chula
 
 ### Incoming Hackathons (Planning)
 
