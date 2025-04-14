@@ -57,7 +57,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Top 40</b> Learn Lab Hackathon 2025
 - <b>Top 10</b> Hatch Incubation Gen 9
 - 🥉 "2nd Runner-up" Bookathon at 53th Thai National Book Fair
-- 🏆 SuperAI SS5 Engineer 2025 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
+- 🏆 Super AI Engineer Season 5 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
 
 ## Hackathons that I didn't have joined
 
