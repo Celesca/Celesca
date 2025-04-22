@@ -36,6 +36,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KMUTT Makkadan 2025 Championship Organizer (1 Jan 2025 - Now)
 - CPE101 Special Lecture : Introduction to Microsoft Azure IoT Hub (27 Mar 2025)
 - Season of AI : Season of Agents (20 Apr 2025)
+- 🥉 Bronze Medalist (รางวัลเชิดชูเกียรติยศ) of KMUTT Academic 2024 ⭐
 
 ### Competition Lists which I had joined :
 
