@@ -21,7 +21,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Microsoft Build: AI Day (1 May 2024) at Queen Sirikit National Convention Center
 - RC Tech Talk "Head Speaker" (13 May 2024)
 - Microsoft Build: After Party Thailand at SCBx Next Tech (16 June 2024)
-- TEDxKMUTT Website Developer Assistant (16 Aug - Now)
+- TEDxKMUTT Website Developer Assistant (16 Aug 2024 - 26 Apr 2025)
 - InternSIT @ SIT KMUTT (25 Aug 2024)
 - KMUTT ACTS @ LX KMUTT (26-27 Aug 2024)
 - RC Tech Talk Next Gen: AI Day "Head Speaker" (22 Sep 2024)
@@ -36,7 +36,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - KMUTT Makkadan 2025 Championship Organizer (1 Jan 2025 - Now)
 - CPE101 Special Lecture : Introduction to Microsoft Azure IoT Hub (27 Mar 2025)
 - Season of AI : Season of Agents (20 Apr 2025)
-- 🥉 Bronze Medalist (รางวัลเชิดชูเกียรติยศ) of KMUTT Academic 2024 ⭐
+- 🥉 Bronze Medalist (รางวัลเชิดชูเกียรติยศวิชาการดีเด่น) of KMUTT Academic 2024 ⭐
+- รางวัลเชิดชูเกียรติยศ ผู้สร้างผลงานให้มหาวิทยาลัย สังกัดวิศวกรรมคอมพิวเตอร์ 2025 ⭐
 
 ### Competition Lists which I had joined :
 
