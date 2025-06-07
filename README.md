@@ -69,6 +69,11 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" Crime Charge Analysis by AXONs x Super AI Engineer SS5
 - 🏆 "Winner" Audio Understanding by SCBx x Super AI Engineer SS5
 
+## Mentoring that I have been invited
+- SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
+- CAI Club Hackathon 3 : 7-11 x AI
+- CAICamp Gen 8 : Nexus
+
 ## Hackathons that I didn't have joined
 
 - Grabkathon (Grab Spark)
@@ -77,6 +82,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 
 ### Incoming Hackathons (Planning)
 
+- FICS2025 at Chiang Mai
+- Hack to the max Season 2 by ITMX
+- CP Axtra x Makro
 - YES Talent Camp 2025 (Mitr phol AI Hackathon)
 - Brain Code Camp 2025
 - ELP 2026
