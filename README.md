@@ -90,6 +90,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - ELP 2026
 - Super AI Engineer Season 6 : Track AI Researcher
 - Social Innovation Accelerator Thailand (Social Entrepreneur)
+- OIC InsurTech 2025
+- Moral Hackathon
 
 ### Lists of Project I want to do
 
