@@ -37,6 +37,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - CPE101 Special Lecture : Introduction to Microsoft Azure IoT Hub (27 Mar 2025)
 - Season of AI : Season of Agents (20 Apr 2025)
 - 🥉 Bronze Medalist (ทุนเจียระไนเพชรฯ วิชาการดีเด่น มจธ. 3 ปีซ้อน) of KMUTT Academic 2024 ⭐
+- 🥈 Silver Medalist (ทุนเจียระไนเพชรฯ วิชาการดีเด่น มจธ. 3 ปีซ้อน) of KMUTT Academic 2025 ⭐⭐
 - รางวัลเชิดชูเกียรติยศ ผู้สร้างผลงานให้มหาวิทยาลัย สังกัดวิศวกรรมคอมพิวเตอร์ 2025 ⭐
 
 ### Competition Lists which I had joined :
@@ -68,6 +69,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" SCG EIP x YTP 2025 Hell Day (26-27 Apr 2025)
 - 🥈 "1st Runner-up" Crime Charge Analysis by AXONs x Super AI Engineer SS5
 - 🏆 "Winner" Audio Understanding by SCBx x Super AI Engineer SS5
+- 🥈 "1st Runner-up" Bias Correction GSMaP by สสน. x Super AI Engineer SS5
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
