@@ -65,9 +65,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Top 40</b> Learn Lab Hackathon 2025
 - <b>Top 10</b> Hatch Incubation Gen 9
 - 🥉 "2nd Runner-up" Bookathon at 53th Thai National Book Fair
-
 - 🏆 Super AI Engineer Season 5 Level 2 ⭐⭐⭐⭐ (17 Apr - Now)
-
 - 🥈 "1st Runner-up" SCG EIP x YTP 2025 Hell Day (26-27 Apr 2025)
 - 🎖️ "Honorable Mention" Sales Forecasting by CP Axtra x Super AI Engineer SS5
 - 🥈 "1st Runner-up" Crime Charge Analysis by AXONs x Super AI Engineer SS5
