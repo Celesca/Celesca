@@ -72,6 +72,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🏆 "Winner" Audio Understanding by SCBx x Super AI Engineer SS5
 - 🥈 "1st Runner-up" Bias Correction GSMaP by สสน. x Super AI Engineer SS5
 - 🏆 "Winner" Cognitive Profilling Prediction by Image Matters x Super AI Engineer SS5
+- 🏆 "Winner" BDI Hackathon 2025 ⭐⭐⭐
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
