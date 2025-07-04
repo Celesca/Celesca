@@ -1,6 +1,7 @@
 # 💫 About Me:
 My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT).
 * AI Engineer Intern at SCG
+* Full-stack Developer (Pending) at Deep Capital
 * Frontend Developer Part-time at SCB
 * Beta Microsoft Learn Student Ambassador
 * Super AI Engineer Season 5 by AIAT
