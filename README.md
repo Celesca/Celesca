@@ -74,6 +74,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" Bias Correction GSMaP by สสน. x Super AI Engineer SS5
 - 🏆 "Winner" Cognitive Profilling Prediction by Image Matters x Super AI Engineer SS5
 - 🏆 "Winner" BDI Hackathon 2025 ⭐⭐⭐
+- 🏆 "Winner" FICS 2025 by NUS (Thailand Team Representative at Pakistan) ⭐⭐
+- <b>Top 40</b> OIC InsurTech 2025
+- <b>Top 20</b> Axtra Mile Hackathon - Powered by CP AXTRA
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
@@ -88,16 +91,12 @@ I'm passionate about community building and inspiring other students. <br> I als
 
 ### Incoming Hackathons (Planning)
 
-- FICS2025 at Chiang Mai
 - Hack to the max Season 2 by ITMX
-- CP Axtra x Makro
 - YES Talent Camp 2025 (Mitr phol AI Hackathon)
 - Brain Code Camp 2025
 - ELP 2026
 - Super AI Engineer Season 6 : Track AI Researcher
 - Social Innovation Accelerator Thailand (Social Entrepreneur)
-- OIC InsurTech 2025
-- Moral Hackathon
 
 ### Lists of Project I want to do
 
