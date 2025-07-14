@@ -88,10 +88,10 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Grabkathon (Grab Spark)
 - Noc Noc Hackathon
 - CUBs Chula
+- Hack to the max Season 2 by ITMX
 
 ### Incoming Hackathons (Planning)
 
-- Hack to the max Season 2 by ITMX
 - YES Talent Camp 2025 (Mitr phol AI Hackathon)
 - Brain Code Camp 2025
 - ELP 2026
