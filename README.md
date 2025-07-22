@@ -77,6 +77,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🏆 "Winner" FICS 2025 by NUS (Thailand Team Representative at Pakistan) ⭐⭐
 - <b>Top 40</b> OIC InsurTech 2025
 - <b>Top 20</b> Axtra Mile Hackathon - Powered by CP AXTRA
+- 🥉 "2nd Runner-up" SCG EIP x YTP 2025 (21 July 2025)
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
