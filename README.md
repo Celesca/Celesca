@@ -83,18 +83,13 @@ I'm passionate about community building and inspiring other students. <br> I als
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
 - CAI Club Hackathon 3 : 7-11 x AI
-- CAICamp Gen 8 : Nexus
-
-## Hackathons that I didn't have joined
-
-- Grabkathon (Grab Spark)
-- Noc Noc Hackathon
-- CUBs Chula
-- Hack to the max Season 2 by ITMX
+- CAICamp Gen 8 : AI Nexus
 
 ### Incoming Hackathons (Planning)
 
 - YES Talent Camp 2025 (Mitr phol AI Hackathon)
+- JUMP Thailand
+- Hack Hed Dee KMUTT
 - Brain Code Camp 2025
 - ELP 2026
 - Super AI Engineer Season 6 : Track AI Researcher
