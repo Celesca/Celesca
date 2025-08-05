@@ -76,8 +76,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🏆 "Winner" BDI Hackathon 2025 ⭐⭐⭐
 - 🏆 "Winner" FICS 2025 by NUS (Thailand Team Representative at Pakistan) ⭐⭐
 - <b>Top 40</b> OIC InsurTech 2025
-- <b>Top 20</b> Axtra Mile Hackathon - Powered by CP AXTRA
+- ⭐ "Rookie Star" Axtra Mile Hackathon 2025 by CP AXTRA
 - 🥉 "2nd Runner-up" SCG EIP x YTP 2025 (21 July 2025)
+- 🥉 "2nd Runner-up" AI Thailand Hackathon 2025 by AI Thailand (2-4 August 2025) ⭐⭐⭐
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
