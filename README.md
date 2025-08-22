@@ -1,5 +1,8 @@
 # 💫 About Me:
 My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT).
+
+<img width="5%" align="right" alt="Github" src="https://www.eekmuttservice.com/resources/images/KMUTT.png" />
+
 * AI Engineer Intern at SCG
 * Junior Developer at Deep Capital
 * IT Security Engineer Part-time at SCB
@@ -8,6 +11,12 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Beta Microsoft Learn Student Ambassador
 * Super AI Engineer Season 5 by AIAT
 * Creative AI Camp Gen 7 by CP ALL
+
+<div style="display: flex; justify-content: center;">
+  <img width="120px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
+  <img width="120px" src="https://www.prachachat.net/wp-content/uploads/2020/03/SCB_FC_AbbreviatedLogo_Horizontal_PurpleBG.jpg"/>
+  
+</div>
 
 
 I'm passionate about community building and inspiring other students. <br> I also believe in lifelong learning, so I enjoy exploring various technologies. <br>🌍  I'm based in Bangkok<br>🖥️  See my portfolio at [this website](https://celescadev-celescas-projects.vercel.app/)<br>✉️  You can contact me at [folk.sawit@gmail.com](mailto:folk.sawit@gmail.com)<br>🧠  I'm into Software Engineering, AI, DevOps, QA Testing and Business
