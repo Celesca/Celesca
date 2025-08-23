@@ -13,10 +13,13 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Creative AI Camp Gen 7 by CP ALL
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img width="120px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
-  <img width="120px" src="https://www.prachachat.net/wp-content/uploads/2020/03/SCB_FC_AbbreviatedLogo_Horizontal_PurpleBG.jpg"/>
-  <img height="50px" src="https://media.licdn.com/dms/image/v2/D560BAQEuvGDDAbfK5A/company-logo_200_200/company-logo_200_200/0/1719211123161/deepcapitalth_logo?e=1758758400&v=beta&t=fSeE5upMAr826K2h0ONadAaD9muPbDB3pjdLqY8mOrk"/>
-  <img height=""
+  <img height="50px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
+  <img height="50px" style="margin-right: 20px;" src="https://www.prachachat.net/wp-content/uploads/2020/03/SCB_FC_AbbreviatedLogo_Horizontal_PurpleBG.jpg"/>
+  <img height="50px" style="margin-right: 20px;" src="https://media.licdn.com/dms/image/v2/D560BAQEuvGDDAbfK5A/company-logo_200_200/company-logo_200_200/0/1719211123161/deepcapitalth_logo?e=1758758400&v=beta&t=fSeE5upMAr826K2h0ONadAaD9muPbDB3pjdLqY8mOrk"/>
+  <img height="50px" style="margin-right: 20px;" src="https://hackathon.aiat.or.th/wp-content/uploads/2020/04/1.png"/>
+  <img height="50px" style="margin-right: 20px;" src="https://media.licdn.com/dms/image/v2/D560BAQGfCdqfiWyVaQ/company-logo_200_200/company-logo_200_200/0/1705324459325?e=2147483647&v=beta&t=5eXajKzO42uIGp0vsKq7lnlOETyprwTc7QuF-WOmeWo"/>
+  <img height="50px" alt="MLSCLogo_2" src="https://github.com/user-attachments/assets/9fd77a78-a59c-4a79-a365-75670813ad04" />
+
   
 </div>
 
