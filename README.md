@@ -15,7 +15,8 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 <div style="display: flex; justify-content: center; align-items: center;">
   <img width="120px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
   <img width="120px" src="https://www.prachachat.net/wp-content/uploads/2020/03/SCB_FC_AbbreviatedLogo_Horizontal_PurpleBG.jpg"/>
-  <img height="60px" src="https://media.licdn.com/dms/image/v2/D560BAQEuvGDDAbfK5A/company-logo_200_200/company-logo_200_200/0/1719211123161/deepcapitalth_logo?e=1758758400&v=beta&t=fSeE5upMAr826K2h0ONadAaD9muPbDB3pjdLqY8mOrk"/>
+  <img height="50px" src="https://media.licdn.com/dms/image/v2/D560BAQEuvGDDAbfK5A/company-logo_200_200/company-logo_200_200/0/1719211123161/deepcapitalth_logo?e=1758758400&v=beta&t=fSeE5upMAr826K2h0ONadAaD9muPbDB3pjdLqY8mOrk"/>
+  <img height=""
   
 </div>
 
