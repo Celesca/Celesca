@@ -19,6 +19,8 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
   <img height="50px" style="margin-right: 20px;" src="https://hackathon.aiat.or.th/wp-content/uploads/2020/04/1.png"/>
   <img height="50px" style="margin-right: 20px;" src="https://media.licdn.com/dms/image/v2/D560BAQGfCdqfiWyVaQ/company-logo_200_200/company-logo_200_200/0/1705324459325?e=2147483647&v=beta&t=5eXajKzO42uIGp0vsKq7lnlOETyprwTc7QuF-WOmeWo"/>
   <img height="50px" alt="MLSCLogo_2" src="https://github.com/user-attachments/assets/9fd77a78-a59c-4a79-a365-75670813ad04" />
+  <img height="50px" alt="MLSCLogo_2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/CP_ALL_Logo.svg/2560px-CP_ALL_Logo.svg.png" />
+  
 
   
 </div>
