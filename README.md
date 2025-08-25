@@ -9,8 +9,9 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Machine Learning Engineer at Green Bloom
 * Market Researcher Intern at SEA Bridge
 * Beta Microsoft Learn Student Ambassador
-* Super AI Engineer Season 5 by AIAT
+* Super AI Engineer Season 5 by AIAT (Track 2 : AI Engineer | EXP House)
 * Creative AI Camp Gen 7 by CP ALL
+* YES Talent Camp 2025 by Mitr Phol Group
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img height="50px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
@@ -20,6 +21,7 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
   <img height="50px" style="margin-right: 20px;" src="https://media.licdn.com/dms/image/v2/D560BAQGfCdqfiWyVaQ/company-logo_200_200/company-logo_200_200/0/1705324459325?e=2147483647&v=beta&t=5eXajKzO42uIGp0vsKq7lnlOETyprwTc7QuF-WOmeWo"/>
   <img height="50px" alt="MLSCLogo_2" src="https://github.com/user-attachments/assets/9fd77a78-a59c-4a79-a365-75670813ad04" />
   <img height="50px" alt="MLSCLogo_2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/CP_ALL_Logo.svg/2560px-CP_ALL_Logo.svg.png" />
+  <img height="50px" alt="MLSCLogo_2" src="https://www.mitrpholsugar.com/wp-content/uploads/2021/04/logo.png" />
   
 
   
