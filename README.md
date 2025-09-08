@@ -100,6 +100,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥉 "2nd Runner-up" SCG EIP x YTP 2025 (21 July 2025)
 - ⭐ "Rookie Star" Axtra Mile Hackathon 2025 by CP AXTRA
 - 🥉 "2nd Runner-up" AI Thailand Hackathon 2025 by AI Thailand (2-4 August 2025) ⭐⭐⭐
+- ReTourism LAB 
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
