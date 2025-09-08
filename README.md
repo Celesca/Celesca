@@ -100,7 +100,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥉 "2nd Runner-up" SCG EIP x YTP 2025 (21 July 2025)
 - ⭐ "Rookie Star" Axtra Mile Hackathon 2025 by CP AXTRA
 - 🥉 "2nd Runner-up" AI Thailand Hackathon 2025 by AI Thailand (2-4 August 2025) ⭐⭐⭐
-- ReTourism LAB 
+- YES Talent Camp 2025 (Mitr phol AI Hackathon) (29 August - 3 October 2025) ⭐
+- ReTourism LAB by Alpha+ Sandbox and TAT (การท่องเที่ยวแห่งประเทศไทย) (6-10 September 2025)
+- Top 50 Jump Thailand Hackathon 2025
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
@@ -109,9 +111,6 @@ I'm passionate about community building and inspiring other students. <br> I als
 
 ### Incoming Hackathons (Planning)
 
-- YES Talent Camp 2025 (Mitr phol AI Hackathon)
-- JUMP Thailand
-- Hack Hed Dee KMUTT
 - Brain Code Camp 2025
 - ELP 2026
 - Super AI Engineer Season 6 : Track AI Researcher
