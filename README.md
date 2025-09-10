@@ -101,8 +101,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 - ⭐ "Rookie Star" Axtra Mile Hackathon 2025 by CP AXTRA
 - 🥉 "2nd Runner-up" AI Thailand Hackathon 2025 by AI Thailand (2-4 August 2025) ⭐⭐⭐
 - YES Talent Camp 2025 (Mitr phol AI Hackathon) (29 August - 3 October 2025) ⭐
-- ReTourism LAB by Alpha+ Sandbox and TAT (การท่องเที่ยวแห่งประเทศไทย) (6-10 September 2025)
+- 🏆 "Winner" Best Tourism Idea : ReTourism LAB by Alpha+ Sandbox and TAT (การท่องเที่ยวแห่งประเทศไทย) (6-10 September 2025)
 - Top 50 Jump Thailand Hackathon 2025
+- 🥉 "2nd Runner-up" R2M KMUTT 2025
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
