@@ -9,7 +9,7 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Machine Learning Engineer at Green Bloom
 * Market Researcher Intern at SEA Bridge
 * Beta Microsoft Learn Student Ambassador
-* Super AI Engineer Season 5 by AIAT (Track 2 : AI Engineer | EXP House)
+* 🥇 Gold Medal Super AI Engineer Season 5 by AIAT (Track 2 : AI Engineer | EXP House)
 * Creative AI Camp Gen 7 by CP ALL
 * YES Talent Camp 2025 by Mitr Phol Group
 
