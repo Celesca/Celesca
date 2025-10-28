@@ -10,8 +10,8 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Market Researcher Intern at SEA Bridge
 * Beta Microsoft Learn Student Ambassador
 * 🥇 Gold Medal Super AI Engineer Season 5 by AIAT (Track 2 : AI Engineer | EXP House)
-* Creative AI Camp Gen 7 by CP ALL
-* YES Talent Camp 2025 by Mitr Phol Group
+* 🥈 Silver Medal Creative AI Camp Gen 7 by CP ALL
+* 🥇 Winner YES Talent Camp 2025 by Mitr Phol Group
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img height="50px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
@@ -76,7 +76,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 "1st Runner-up" SCGJWD Next Gen Logistics 2024 2nd Gen (15-21 July 2024) ⭐⭐
 - R2M#12 (Research to Market) KMUTT (26 July - 6 August 2024)
 - Global Startup Hackathon by Reactor School and KMUTT Hatch (5-7 September 2024)
-- 🥈 "1st Runner-up" CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐
+- 🥈 "1st Runner-up" CAICamp Gen 7 (16 Aug 2024 - 26 Oct 2024) ⭐⭐⭐
 - E-SAN Thailand Coding & AI Academy Season 3 Phase 2 (28 Oct 2024)
 - Thailand Cyber Top Talent 2024
 - <b>Top 15</b> OIC InsurTech Hackathon 2024 (27 Oct 2024)
@@ -101,7 +101,13 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥉 "2nd Runner-up" AI Thailand Hackathon 2025 by AI Thailand (2-4 August 2025) ⭐⭐⭐
 - 🏆 "Winner" Best Tourism Idea : ReTourism LAB by Alpha+ Sandbox and TAT (การท่องเที่ยวแห่งประเทศไทย) (6-10 September 2025)
 - 🥉 "2nd Runner-up" R2M KMUTT 2025
-- 🏆 "Winner" YES Talent Camp 2025 : GenAI for cane industry by Mitr Phol Group (2-3 October 2025) ⭐⭐
+- 🏆 "Winner" YES Talent Camp 2025 : GenAI for cane industry by Mitr Phol Group (2-3 October 2025) ⭐⭐⭐
+
+⭐⭐⭐
+
+- 🥇 Gold Medal Super AI Engineer Season 5 by AIAT (Track 2 : AI Engineer | EXP House) ⭐⭐⭐
+
+⭐⭐⭐
 
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
