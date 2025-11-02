@@ -139,19 +139,19 @@ I'm passionate about community building and inspiring other students. <br> I als
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 April 2024 - To: 30 October 2025
+From: 20 April 2024 - To: 01 November 2025
 
-Total Time: 860 hrs 1 min
+Total Time: 862 hrs 15 mins
 
-Python                     377 hrs 9 mins  >>>>>>>>>>>--------------   43.66 %
-TypeScript                 323 hrs 4 mins  >>>>>>>>>----------------   37.40 %
+Python                     378 hrs 23 mins >>>>>>>>>>>--------------   43.69 %
+TypeScript                 323 hrs 4 mins  >>>>>>>>>----------------   37.30 %
 JavaScript                 21 hrs 59 mins  >------------------------   02.54 %
-Bash                       13 hrs 55 mins  -------------------------   01.61 %
-Vue.js                     13 hrs 32 mins  -------------------------   01.57 %
+Bash                       14 hrs 33 mins  -------------------------   01.68 %
+Vue.js                     13 hrs 32 mins  -------------------------   01.56 %
 Go                         13 hrs 18 mins  -------------------------   01.54 %
 CSV                        12 hrs 31 mins  -------------------------   01.45 %
-Markdown                   11 hrs 3 mins   -------------------------   01.28 %
-Docker                     7 hrs 31 mins   -------------------------   00.87 %
+Markdown                   11 hrs 10 mins  -------------------------   01.29 %
+Docker                     7 hrs 46 mins   -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
