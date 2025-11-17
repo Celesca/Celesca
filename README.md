@@ -117,6 +117,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
 - CAI Club Hackathon 3 : 7-11 x AI
 - CAICamp Gen 8 : AI Nexus
+- YDP (Young Developer Program) : AI Mentor
+- KMUTT Startup Playground 4 : Business Mentor
 
 ### Incoming Hackathons (Planning)
 
