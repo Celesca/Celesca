@@ -3,9 +3,10 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 
 <img width="5%" align="right" alt="Github" src="https://www.eekmuttservice.com/resources/images/KMUTT.png" />
 
+* Machine Learning Engineer at SCB (7 Jan 2025 - 30 April 2025)
 * Ex-AI Engineer Intern at SCG (8 months | Mar 2025 - October 2025)
 * Junior Developer Part-time at Deep Capital
-* AI Developer Part-time at SCB Tech Hub 
+* AI Engineer Part-time at SCB Tech Hub 
 * Ex-Market Researcher Intern at SEA Bridge
 * Machine Learning Engineer Part-time at Green Bloom
 
