@@ -114,6 +114,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 
 ⭐⭐⭐
 
+- 🏆 "Winner" Vision-Language Model for Smart Manufacturer by CMKL University x AIFT (29-30 November 2025) ⭐
+
+
 ## Mentoring that I have been invited
 - SCGJWD Logistics Next Gen 3 (14 - 15 June 2025)
 - CAI Club Hackathon 3 : 7-11 x AI
