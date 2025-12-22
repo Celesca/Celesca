@@ -115,6 +115,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 ⭐⭐⭐
 
 - 🏆 "Winner" Vision-Language Model for Smart Manufacturer by CMKL University x AIFT (29-30 November 2025) ⭐
+- <b>Finalist Top 10</b> Learn Lab Power by Alpha+ sandbox
+- Hatch Incubation Gen 10 
 
 
 ## Mentoring that I have been invited
