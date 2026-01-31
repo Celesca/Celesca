@@ -8,7 +8,8 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Junior Developer Part-time at Deep Capital
 * AI Engineer Part-time at SCB Tech Hub 
 * Ex-Market Researcher Intern at SEA Bridge
-* Machine Learning Engineer Part-time at Green Bloom
+* Machine Learning Engineer Part-time at Oneput
+* Co-Founder at Limitless Tech Corp.
 
 ---
 
