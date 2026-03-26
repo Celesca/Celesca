@@ -6,10 +6,12 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 * Machine Learning Engineer at SCB (7 Jan 2025 - 30 April 2025)
 * Ex-AI Engineer Intern at SCG (8 months | Mar 2025 - October 2025)
 * Junior Developer Part-time at Deep Capital
-* AI Engineer Part-time at SCB Tech Hub 
+* AI Engineer Part-time at SCB Tech Hub
+* Technical Consultant at Borntodev
 * Ex-Market Researcher Intern at SEA Bridge
 * Machine Learning Engineer Part-time at Oneput
-* Co-Founder at Limitless Tech Corp.
+* Co-Founder and CTO at Limitless Tech Corp.
+* Software Engineer at Antiscamplus
 
 ---
 
