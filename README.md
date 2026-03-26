@@ -121,6 +121,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Finalist Top 10</b> Learn Lab Power by Alpha+ sandbox
 - Hatch Incubation Gen 10 
 - 🏆🥇 "2nd Runner-up" I-New Gen Awards 2026 at BITEC Bangna
+- <b>Finalist Top 7</b> KBTG x Samsung Digital Fraud Hackathon 2026
+- 🏆 "Winner" DENSO SmartSafe Hackathon: AI & IoT for Real‑Time Factory Safety (26 March 2026) 
 
 
 ## Mentoring that I have been invited
