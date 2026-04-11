@@ -1,7 +1,9 @@
 # 💫 About Me:
 My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's University of Technology Thonburi (KMUTT).
+and also Gold Medal Super AI Engineer SS5.
 
 <img width="5%" align="right" alt="Github" src="https://www.eekmuttservice.com/resources/images/KMUTT.png" />
+
 
 * Machine Learning Engineer at SCB (7 Jan 2025 - 30 April 2025)
 * Tech Consultant at Borntodev (1 Mar 2025 - Present)
@@ -141,12 +143,13 @@ I'm passionate about community building and inspiring other students. <br> I als
 - CAICamp Gen 8 : AI Nexus
 - YDP (Young Developer Program) : AI Mentor
 - KMUTT Startup Playground 4 : Business Mentor
+- Teaching Assistant : Super AI Engineer Season 6
 
 ### Incoming Hackathons (Planning)
 
-- Brain Code Camp 2025
 - ELP 2026
-- Super AI Engineer Season 6 : Track AI Researcher
+- BBC (Bangkok Business Challenge) by Sasin School
+- Food Sci Chula Hackathon
 - Social Innovation Accelerator Thailand (Social Entrepreneur)
 
 ## 💻 Tech Stack:
