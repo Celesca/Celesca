@@ -4,14 +4,18 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
 <img width="5%" align="right" alt="Github" src="https://www.eekmuttservice.com/resources/images/KMUTT.png" />
 
 * Machine Learning Engineer at SCB (7 Jan 2025 - 30 April 2025)
+* Tech Consultant at Borntodev (1 Mar 2025 - Present)
 * Ex-AI Engineer Intern at SCG (8 months | Mar 2025 - October 2025)
-* Junior Developer Part-time at Deep Capital
-* AI Engineer Part-time at SCB Tech Hub
-* Technical Consultant at Borntodev
+* Ex-Junior Developer Part-time at Deep Capital
+* Ex-AI Engineer Part-time at SCB Tech Hub
 * Ex-Market Researcher Intern at SEA Bridge
-* Machine Learning Engineer Part-time at Oneput
+
+### Startup
+
+* Director of Technology at Oneput (10 Nov 2025 - Present)
 * Co-Founder and CTO at Limitless Tech Corp.
-* Software Engineer at Antiscamplus
+* Software Engineer Part-time at Antiscamplus
+* AI Evangelist Part-time at SEA Bridge (Coming Soon)
 
 ---
 
