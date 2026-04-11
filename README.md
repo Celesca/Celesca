@@ -25,12 +25,17 @@ My name is Folk. I'm a Computer Engineering student <br> at King Mongkut's Unive
   <img height="50px" style="margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Siam_Cement_Group_Logo.svg/1200px-Siam_Cement_Group_Logo.svg.png"/>
   <img height="50px" style="margin-right: 20px;" src="https://www.prachachat.net/wp-content/uploads/2020/03/SCB_FC_AbbreviatedLogo_Horizontal_PurpleBG.jpg"/>
   <img height="50px" style="margin-right: 20px;" src="https://deepcapital.ai/images/DeepCapital_logotype_white.svg"/>
-  <img height="50px" style="margin-right: 20px;" src="https://hackathon.aiat.or.th/wp-content/uploads/2020/04/1.png"/>
+  <!-- AIAT -->
+  <img height="50px" style="margin-right: 20px;" src="https://aieat.or.th/wp-content/uploads/2024/05/e625f4b0b48a6b43c567ceac0706e56f-1024x415.png"/>
   <img height="50px" style="margin-right: 20px;" src="https://media.licdn.com/dms/image/v2/D560BAQGfCdqfiWyVaQ/company-logo_200_200/company-logo_200_200/0/1705324459325?e=2147483647&v=beta&t=5eXajKzO42uIGp0vsKq7lnlOETyprwTc7QuF-WOmeWo"/>
   <img height="50px" alt="MLSCLogo_2" src="https://github.com/user-attachments/assets/9fd77a78-a59c-4a79-a365-75670813ad04" />
-  <img height="50px" alt="MLSCLogo_2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/CP_ALL_Logo.svg/2560px-CP_ALL_Logo.svg.png" />
-  <img height="50px" alt="MLSCLogo_2" src="https://code-of-conduct.mitrphol.com/images/logo.png" />
-  
+  <!-- CP ALL -->
+  <img height="50px" alt="CP ALL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/CP_ALL_Logo.svg/1280px-CP_ALL_Logo.svg.png" />
+  <img height="50px" alt="Mitr Phol" src="https://code-of-conduct.mitrphol.com/images/logo.png" />
+  <!-- Borntodev -->
+  <img height="50px" alt="Borntodev" src="https://b2dmain-ruk.cdn.jelastic.net/wp-content/uploads/2022/05/38033354_1904287879629496_1565701761929314304_n-3.png" />
+  <!-- Oneput -->
+  <img width="146" height="66" alt="oneput" src="https://github.com/user-attachments/assets/5f9fad45-701f-43dd-95c4-8c5e26adacf3" />
 
   
 </div>
@@ -122,7 +127,8 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Hatch Incubation Gen 10 
 - 🏆🥇 "2nd Runner-up" I-New Gen Awards 2026 at BITEC Bangna
 - <b>Finalist Top 7</b> KBTG x Samsung Digital Fraud Hackathon 2026
-- 🏆 "Winner" DENSO SmartSafe Hackathon: AI & IoT for Real‑Time Factory Safety (26 March 2026) 
+- 🏆 "Winner" DENSO SmartSafe Hackathon: AI & IoT for Real‑Time Factory Safety (26 March 2026) ⭐
+- 🥉 "2nd Runner-up" PSAT Health Hack 2025 (5 Apr 2026)
 
 
 ## Mentoring that I have been invited
