@@ -17,7 +17,7 @@ and also Gold Medal Super AI Engineer SS5.
 * Director of Technology at Oneput (10 Nov 2025 - Present)
 * Co-Founder and CTO at Limitless Tech Corp.
 * Software Engineer Part-time at Antiscamplus
-* AI Evangelist Part-time at SEA Bridge (Coming Soon)
+* AI Evangelist Part-time at Eduvice (Coming Soon)
 
 ---
 
