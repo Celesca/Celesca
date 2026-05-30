@@ -4,9 +4,9 @@ and also Gold Medal Super AI Engineer SS5.
 
 <img width="5%" align="right" alt="Github" src="https://www.eekmuttservice.com/resources/images/KMUTT.png" />
 
-
-* Machine Learning Engineer at SCB (7 Jan 2025 - 30 April 2025)
-* Tech Consultant at Borntodev (1 Mar 2025 - Present)
+* AI Engineer at SCB (1 July 2026 - Present)
+* Machine Learning Engineer Intern at SCB (7 Jan 2026 - 30 May 2026)
+* Tech Consultant at Borntodev (1 Mar 2026 - Present)
 * Ex-AI Engineer Intern at SCG (8 months | Mar 2025 - October 2025)
 * Ex-Junior Developer Part-time at Deep Capital
 * Ex-AI Engineer Part-time at SCB Tech Hub
