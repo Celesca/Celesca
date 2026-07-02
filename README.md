@@ -81,6 +81,14 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🥈 Silver Medalist (ทุนเจียระไนเพชรฯ วิชาการดีเด่น มจธ. 3 ปีซ้อน) of KMUTT Academic 2025 ⭐⭐
 - ทุนแสดเหลืองเรืองรุ่ง ด้านความคิดสร้างสรรค์และนวัตกรรม ปีการศึกษา 2568 ⭐⭐⭐
 
+### Conferences
+
+- JCSSE2026:
+- IBDAP2026: Yeeping ECO
+- ISAL-NLP2026:
+- ISAC
+- ISNC
+
 ### Competition Lists which I had joined :
 
 - 🥈 "1st Runner-up" Thong Thon Game Design Camp (21-22 August 2022) ⭐
@@ -135,7 +143,9 @@ I'm passionate about community building and inspiring other students. <br> I als
 - <b>Finalist Top 7</b> KBTG x Samsung Digital Fraud Hackathon 2026
 - 🏆 "Winner" DENSO SmartSafe Hackathon: AI & IoT for Real‑Time Factory Safety (26 March 2026) ⭐
 - 🥉 "2nd Runner-up" PSAT Health Hack 2025 (5 Apr 2026)
-- 🏆 "Winner" SCB Cooperative Internship Pitching Project - (27 Apr 2026)⭐
+- 🏆 "Winner" SCB Cooperative Internship Pitching Project (27 Apr 2026)⭐
+- <b>KMUTT Selected ELP 4: Thailand Round<b>
+- <b>Selected 20 ELP 4: Regional Round</b>
 
 
 ## Mentoring that I have been invited
