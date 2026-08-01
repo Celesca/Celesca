@@ -156,7 +156,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - Teaching Assistant : Super AI Engineer Season 6
 - SoftEng Eduvice
 
-### Incoming Hackathons (Planning)
+### Incoming Hackathons & Conferences (Planning)
 
 - Social Innovation Accelerator Thailand (Social Entrepreneur)
 - ISAL-NLP2026:
