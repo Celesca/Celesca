@@ -107,7 +107,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - E-SAN Thailand Coding & AI Academy Season 3 Phase 2 (28 Oct 2024)
 - Thailand Cyber Top Talent 2024
 - <b>Top 15</b> OIC InsurTech Hackathon 2024 (27 Oct 2024)
-- Siriraj x MIT Hacking Medicine 2024 (1-3 Now 2024) - Track 1 : Aging in place ⭐
+- Siriraj x MIT Hacking Medicine 2024 (1-3 Nov 2024) - Track 1 : Aging in place ⭐
 - 🥈 "1st Runner-up" KMUTT Startup Playground (9-17 Nov 2024)
 - SuperAI SS5 Engineer 2025 Level 1 (12 Dec 2024 - 31 Mar 2025)
 - Chula LegalTech SS6
