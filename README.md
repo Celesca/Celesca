@@ -15,10 +15,11 @@ and also Gold Medal Super AI Engineer SS5.
 ### Startup
 
 * AI Evangelist & Lecturer at Eduvice (1 July 2026 - Present)
-* Director of Technology at Oneput (10 Nov 2025 - 31 Jun 2026)
 * Co-Founder and CTO at Limitless Tech Corp.
-* CEO at Antiscamplus
-* CEO at LONG
+* CTO at Damy
+* Ex-Director of Technology at Oneput (10 Nov 2025 - 31 Jun 2026)
+* Ex-CEO at Antiscamplus
+* Ex-CEO at LONG (will continue to be WANDER)
 
 
 ---
@@ -86,7 +87,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 ### Conferences
 
 - JCSSE2026: MANJU: A Multi-Agent Framework for Natural Just-in-Time Understanding in Thai [Paper Link](https://www.researchgate.net/publication/408867871_MANJU_A_Multi-Agent_Framework_for_Natural_Just-in-Time_Understanding_in_Thai)
-- IBDAP2026: Yeeping ECO
+- IBDAP2026: Yeeping ECO [Paper Link](https://ieeexplore.ieee.org/document/11677988/)
 
 ### Competition Lists which I had joined :
 
@@ -143,8 +144,11 @@ I'm passionate about community building and inspiring other students. <br> I als
 - 🏆 "Winner" DENSO SmartSafe Hackathon: AI & IoT for Real‑Time Factory Safety (26 March 2026) ⭐
 - 🥉 "2nd Runner-up" PSAT Health Hack 2025 (5 Apr 2026)
 - 🏆 "Winner" SCB Cooperative Internship Pitching Project (27 Apr 2026)⭐
-- <b>KMUTT Selected ELP 4: Thailand Round<b>
-- <b>Selected 20 ELP 4: Regional Round</b>
+- <b>KMUTT 5 Selected ELP 4: Regional Round<b> (12-14 June 2026)
+- <b>Selected 20 ELP 4: Thailand Round</b> (25-26 July 2026)
+- 🥈 "1st Runner-up" SRIRACHA HACKATHON 2026 - "AI & Digital Green Innovation for Sustainable Future" Prototype Tourism (11 September 2026)
+- <b>Finalist Top 20</b>International Youth Entrepreneurship Olympiad 2026 at Seoul, Korea ⭐⭐ (7-11 September 2026)
+- <b>Finalist </b>Sustainnovation by DAD
 
 
 ## Mentoring that I have been invited
@@ -153,7 +157,7 @@ I'm passionate about community building and inspiring other students. <br> I als
 - CAICamp Gen 8 : AI Nexus
 - YDP (Young Developer Program) : AI Mentor
 - KMUTT Startup Playground 4 : Business Mentor
-- Teaching Assistant : Super AI Engineer Season 6
+- Central Teaching Assistant : Super AI Engineer Season 6 (1 May - 1 June 2026)
 - SoftEng Eduvice
 
 ### Incoming Hackathons & Conferences (Planning)
